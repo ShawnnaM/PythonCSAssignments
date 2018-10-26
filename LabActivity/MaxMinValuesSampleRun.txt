@@ -1,0 +1,39 @@
+
+J:\2017\batch_windows\MaxMinValues\code>python max_min_values.py
+Programmed by Porter Scobey
+Warning: You must enter at least one number on the command line.
+Press Enter to continue ...
+
+J:\2017\batch_windows\MaxMinValues\code>python max_min_values.py 6
+Programmed by Porter Scobey
+The largest value input was 6, which occured at position 1.
+The smallest value input was 6, which occured at position 1.
+Press Enter to continue ...
+
+J:\2017\batch_windows\MaxMinValues\code>python max_min_values.py 123.45
+Programmed by Porter Scobey
+The largest value input was 123.45, which occured at position 1.
+The smallest value input was 123.45, which occured at position 1.
+Press Enter to continue ...
+
+J:\2017\batch_windows\MaxMinValues\code>python max_min_values.py 123.456789
+Programmed by Porter Scobey
+The largest value input was 123.456789, which occured at position 1.
+The smallest value input was 123.456789, which occured at position 1.
+Press Enter to continue ...
+
+J:\2017\batch_windows\MaxMinValues\code>python max_min_values.py 10 8 7 6 5 6 7
+8 9 10
+Programmed by Porter Scobey
+The largest value input was 10, which occured at position 1.
+The smallest value input was 5, which occured at position 5.
+Press Enter to continue ...
+
+J:\2017\batch_windows\MaxMinValues\code>python max_min_values.py -5.23 -6.715 0
+34.1 15.975
+Programmed by Porter Scobey
+The largest value input was 34.1, which occured at position 4.
+The smallest value input was -6.715, which occured at position 2.
+Press Enter to continue ...
+
+J:\2017\batch_windows\MaxMinValues\code>
