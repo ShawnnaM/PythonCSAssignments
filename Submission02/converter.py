@@ -1,5 +1,4 @@
 # converter.py
-# McGowan:Shawnna:A00393797:csc227025
 # Submission02
 # Converting Time or Temperature
 
