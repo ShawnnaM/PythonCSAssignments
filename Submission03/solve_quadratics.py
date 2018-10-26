@@ -1,5 +1,4 @@
 # solve_quadratics.py
-# McGowan:Shawnna:A00393797:csc227025
 # Submission03
 # Solving Quadratic Equations
 """
