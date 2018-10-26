@@ -1,5 +1,4 @@
 # rainfall.py
-# McGowan:Shawnna:A00393797:csc227025
 # Submission04
 # Retrieving and Processing Rainfall Data
 """
